@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.dot {
+    background-color: white;
+    position: absolute;
+    width: 5px;
+    height: 5px;
+}
+
+.container {
+    position: relative;
+    background-color: black;
+    height: 100vh;
+}
